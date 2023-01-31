@@ -93,3 +93,8 @@
 //   }
 
 // factorial(5);
+
+// function sum4(x=12,y=5,z=x+y){
+//     return z
+// }
+// console.log(sum4(20));
